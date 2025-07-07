@@ -1,3 +1,10 @@
+"""
+design a hashtable 
+suport operations like put get remove
+
+"""
+
+
 class HashTable:
     def __init__(self, initial_capacity=16):
         # initialize bucket array with empty lists for chaining collision resolution

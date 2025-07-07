@@ -1,3 +1,9 @@
+"""
+given a string of words, sperated by space, 
+reverse every character of each word
+"""
+
+
 def reverse_words(input_string):
     # handle edge case of empty or whitespace-only string
     if not input_string or input_string.isspace():
