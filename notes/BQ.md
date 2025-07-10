@@ -5,6 +5,8 @@
 5. deliver under tight ddl: investigate, piority
 6. take initiative outside responsibility: ownership
 7. complex question
-8. deal with not competent worker
-9. not familiar work
-10.
+8. not familiar work
+
+9. deal with not competent worker
+10. can not meet commitment how to communicate with customer
+11. small data decision

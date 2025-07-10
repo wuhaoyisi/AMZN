@@ -7,7 +7,7 @@ as long as the car size does not exceed the parking size
 
 import uuid
 from enum import Enum
-from collections import deque\
+from collections import deque
 
 class Size(Enum):
     SMALL = 0
