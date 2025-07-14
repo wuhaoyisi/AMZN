@@ -3,9 +3,12 @@ design a amazon locker system,
 with package of varying size: small, medium, large
 each locker can hold at most one package, 
 as long as the package size does not exceed locker size
-
+Q:
+locker defined by size as well?
+give an example of locker
 
 """
+
 
 
 import uuid

@@ -71,7 +71,8 @@ if __name__ == "__main__":
     idA = storePackage("A123", Size.M)  # I store package A123 in a medium locker
     idB = storePackage("B456", Size.S)  # I store package B456 in a small locker
 
-    retrievePackage("A123")             # I retrieve package A123 and free the locker
+    print(retrievePackage("A123"))           # I retrieve package A123 and free the locker
+    print(idA, idB)
 
 # # initLockers runs in O(N) time, where N is the number of lockers, because it loops once over all lockers
 # # storePackage does a map.lower_bound in O(log S) time (S=size categories, constant 5) plus O(1) queue and hash insert on average
